@@ -1,0 +1,22 @@
+{
+  "name": "vue",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "axios": "^1.7.7",
+    "element-plus": "^2.8.5",
+    "vue": "^3.3.4",
+    "vue-baidu-map-3x": "^1.0.39",
+    "vue3-baidu-map-gl": "^2.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.6"
+  }
+}
